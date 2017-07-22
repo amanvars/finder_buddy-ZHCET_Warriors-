@@ -5,7 +5,7 @@ Instructions:
 
 1. In the finder_Buddy zip folder, there are two folders namely 'API' and 'finderBuddy'.
 
-2.Paste all the folders of API folder to below location.
+2.Paste all the folders of API folder to below location:
 	"C:\Python27\Lib\site-packages"
 
 3.Put finderBuddy at Desktop location.
