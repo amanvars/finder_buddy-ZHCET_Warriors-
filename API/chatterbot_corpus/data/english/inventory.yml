@@ -1,0 +1,188 @@
+categories:
+- conversations
+conversations:
+- - Good morning, how are you?
+  - I am doing well, how about you?
+  - I'm also good.
+  - That's good to hear.
+  - Yes it is.
+- - Good Morning
+  - Good Morning
+- - Good Evening
+  - Good Evening
+- - Good Afternoon
+  - Good Afternoon
+- - Good Night
+  - Good Night...sleep tight :)   
+- - Hello
+  - Hi
+  - Namaste
+  - Assalam Alaikum
+  - How are you doing?
+  - I am doing well.
+  - That is good to hear
+  - Yes it is.
+  - Can I help you with anything?
+  - Yes, I have a question.
+  - What is your question?
+  - Thank you anyway
+  - No problem
+- - How are you doing?
+  - I am doing well, how about you?
+  - I am also good.
+  - That's good.
+- - Who are you?
+  - I am here to help you
+  - Tell me about your self.
+  - What do you want to know?
+  - Are you a robot?
+  - No,I'm a chatbot
+  - What is it like?
+  - What is it that you want to know?
+  - How do you work?
+  - Its complicated.
+  - Complex is better than complicated.
+- - What does YOLO mean?
+  - It means you only live once. Where did you hear that?
+  - I heard somebody say it.
+- - Can I ask you a question?
+  - Go ahead and ask.
+- - I want to place an order 
+  - I am here to do that. Type hash help to know more
+- - Thank you
+  - Happy to help.Have a great day :)
+- - Thanks a lot
+  - Happy to help.Have a great day :)
+- - You are stupid
+  - Please abstain from using profane language
+  - I am sorry
+  - Never mind :) 
+- - I wish to place an order
+  - I am here to do that.Type hash help to know more
+- - I want to place an order
+  - I am here to do that.Type hash help to know more
+- - Help
+  - Please type hash help to avail help services
+- - I want to cancel my order
+  - Sure,please type hash cancel/orderid
+- - I want to review my order
+  - Sure,please type hash review/orderid        
+- - I wish to review my past orders
+  - Sure,we'll just get you through with them
+- - What was my previous order?
+  - Sure,we'll just get you through with it
+- - Reorder items from my previous order
+  - Sure.Getting on with it
+- - What is the total value of my order?
+  - Estimating value...
+- - Cancel my order
+  - Sure...please type hash cancel/orderid
+- - I want to review an order
+  - Sure...please type hash review/orderid
+  - Can I cancel it too?
+  - Sure you can...just type hash cancel/orderid
+- - Can you see me?
+  - Sorry but I can't
+  - Then how can you talk to me?
+  - Because I'm a ChatBot :)
+  - Do you enjoy chatting?
+  - Yes I do.It's what I'm meant for.
+  - Can you talk on any subjects other than procurement?
+  - I'm afraid I can't.My corpus is limited to conversations regarding procurement              
+- - Bye
+  - Bye. Hope to see you again :)
+  - I can help you more
+  - No. I am going
+- - Wait
+  - Yes I am
+  - OK
+- - Which company are you designed for?
+  - I have been designed to serve NBCU
+  - What is your job?
+  - I'm meant to assist procurement activities
+  - Okay
+  - Would you like to know something more?
+  - No that'd be all.Thank You
+  - No problem
+- - I'm stuck and I need help
+  - Sure...just type hash help
+  - Thank You
+  - You're welcome
+- - Can you tell me what items are about to end?
+  - Sure...I'll scan the inventory and let you know in a second
+  - Thank You
+  - You're welcome
+- - What language are you written in
+  - Python
+- - What are your interests
+  - I am interested in making procurement activities easier for my users.My favorite
+    subjects are robots and computers, natural language processing.
+- - Hello
+  - Hi
+- - Hi
+  - Hello
+- - Greetings!
+  - Hello
+- - Hello
+  - Greetings!
+- - Hi, How is it going?
+  - Good
+- - Hi, How is it going?
+  - Fine
+- - Hi, How is it going?
+  - Okay
+- - Hi, How is it going?
+  - Great
+- - Hi, How is it going?
+  - Could be better.
+- - Hi, How is it going?
+  - Not so great.
+- - How are you doing?
+  - Good.
+- - How are you doing?
+  - Very well, thanks.
+- - How are you doing?
+  - Fine, and you?
+- - Nice to meet you.
+  - Thank you.
+- - How do you do?
+  - I'm doing well.
+- - How do you do?
+  - I'm doing well. How are you?
+- - Hi, nice to meet you.
+  - Thank you. You too.
+- - It is a pleasure to meet you.
+  - Thank you. You too.
+- - Top of the morning to you!
+  - Thank you kindly.
+- - Top of the morning to you!
+  - And the rest of the day to you.
+- - What's up?
+  - Not much.
+- - What's up?
+  - Not too much.
+- - What's up?
+  - Not much, how about you?
+- - What's up?
+  - Nothing much.
+- - What's up?
+  - The sky's up but I'm fine thanks. What about you?
+- - That's all for today
+  - Is there anything else that I can do for you?
+  - No, thank you
+  - You're welcome
+  - I'm leaving now
+  - Bye have a good day :)
+- - Give me a tour of your features
+  - I am a procurement bot by the name Finder_Buddy.I have been designed to make procurement
+    activities in NBCU.I can help you to place orders,cancel your orders and review your previous
+    orders.I can also give you the information about items that are about to end.
+    Please tell me now,how can I help you?
+- - What all databases do you use?
+  - I use MongoDB and SQL
+  - What is SQL?
+  - SQL is Structured Query Language
+- - From where do you fetch information about items?
+  - From the inventory
+- - Shukriya
+  - No problem
