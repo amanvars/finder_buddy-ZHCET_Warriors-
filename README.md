@@ -17,7 +17,7 @@ Instructions:
 6. Make sure, python is installed already. if not go to below link:
 https://www.tutorialspoint.com/python/python_environment.htm
 
-6.all necessary packages of python if required by finderBuddy.
+7. Download all necessary packages of python if required by finderBuddy.
 
 Note:
 For database purpose, we use MongoDB and SQLite.
