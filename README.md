@@ -5,12 +5,12 @@ Instructions:
 
 1. In this repo there are two folders namely 'API' and 'finderBuddy'.
 
-2.Paste all the folders of API folder to below location:
+2. Paste all the folders of API folder to below location:
 	"C:\Python27\Lib\site-packages"
 
-3.Put finderBuddy at Desktop location.
+3. Put finderBuddy at Desktop location.
 
-4.Open finderBuddy folder, then there open CMD by holding Shift key + Right Click.
+4. Open finderBuddy folder, then there open CMD by holding Shift key + Right Click.
 
 5. Type "python finderBuddy.py" (without quotes) and press enter. Voila !! Program starts now.
 
