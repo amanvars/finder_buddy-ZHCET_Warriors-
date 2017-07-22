@@ -1,0 +1,10 @@
+1. Put finderBuddy at Desktop location.
+
+2. Open finderBuddy folder, then there open CMD by holding Shift key + Right Click.
+
+3. Type "python finderBuddy.py" (without quotes) and press enter. Voila !! Program starts now.
+
+4. Make sure, python is installed already. if not go to below link:
+    https://www.tutorialspoint.com/python/python_environment.htm
+
+5. Download all necessary packages of python if required by finderBuddy.
