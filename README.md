@@ -20,6 +20,8 @@ https://www.tutorialspoint.com/python/python_environment.htm
 7. Download all necessary packages of python if required by finderBuddy.
 
 Note:
+There are some of the required packages present in API folder. Download all the remaining packages using pip install.
+
 For database purpose, we use MongoDB and SQLite.
 To setup these database go to below links:
 
