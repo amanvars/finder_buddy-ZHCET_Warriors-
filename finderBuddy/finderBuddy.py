@@ -3,6 +3,7 @@
 import os
 from Tkinter import *
 import ttk
+import pyttsx
 
 from Tkconstants import HORIZONTAL
 
@@ -12,7 +13,6 @@ root.overrideredirect(True)
 width = root.winfo_screenwidth()
 height = root.winfo_screenheight()
 root.geometry('%dx%d+%d+%d' % (width*0.5, height*0.4, width*0.25, height*0.3))
-
 
 image_file = "fbsplash.gif"
 #assert os.path.exists(image_file)
