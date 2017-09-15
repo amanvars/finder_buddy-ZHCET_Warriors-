@@ -7,6 +7,9 @@ from .no_knowledge_adapter import NoKnowledgeAdapter
 from .specific_response import SpecificResponseAdapter
 from .time_adapter import TimeLogicAdapter
 from .inventory_adap import InventoryAdapter
+from .find_deal_adap import FindDealAdapter
+from .lang_adap import LanguageAdapter
+from .choice_adap import ChoiceAdapter
 
 
 __all__ = (
@@ -19,4 +22,7 @@ __all__ = (
     'SpecificResponseAdapter',
     'TimeLogicAdapter',
     'InventoryAdapter',
+    'FindDealAdapter',
+    'LanguageAdapter',
+    'ChoiceAdapter'
 )
